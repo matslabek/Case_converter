@@ -1,0 +1,13 @@
+body{
+    font-family: 'Azeret Mono', monospace;
+    background-color: cadetblue;
+}
+.btn{
+    font-family: 'Azeret Mono', monospace;
+    background-color: orangered;
+}
+
+textarea{
+    width: 80vw;
+    height: 70vh;
+}
